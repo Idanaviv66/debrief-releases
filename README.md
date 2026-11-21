@@ -109,6 +109,13 @@ Open an [issue](../../issues) with your Debrief version (**About Debrief**), you
 system, and what happened. Please don't attach flight logs unless you're happy for them to be
 public.
 
+## License
+
+Debrief is free to use, for any purpose, including commercial work. You may not redistribute,
+modify or reverse engineer it, and it comes with no warranty. The full terms are in
+[LICENSE](LICENSE); the installers show them before installing, and the app shows them under
+**Help → License**.
+
 ## Attribution
 
 Parameter and log message descriptions © ArduPilot contributors, licensed
