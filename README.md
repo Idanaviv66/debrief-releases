@@ -97,11 +97,18 @@ or use the `.deb`.
 
 ## Updates
 
-Debrief checks this page for a newer version when it starts, and you can check any time with
-**Check for Updates…** (in the **Debrief** menu on macOS, the **Help** menu on Windows and
-Linux). When an update is available, Debrief offers to open the download page. Download the new
-version and install it the same way, over the old one. Your settings, recent files and offline
-maps are kept.
+Debrief checks this page for a newer version when it starts and every few hours while it's open.
+You can also check any time with **Check for Updates…** (in the **Debrief** menu on macOS, the
+**Help** menu on Windows and Linux). When there's an update, a button appears at the top right of
+the window:
+
+- **Windows (installer) and Linux (AppImage):** Debrief downloads the update in the background
+  (**Downloading update…**), then shows **Restart to Update**. Click it, or just quit Debrief, and
+  the new version installs itself.
+- **macOS, Windows portable and `.deb`:** the button says **Update to …** and opens the download
+  page. Install the new version the same way as the first time, over the old one.
+
+Your settings, recent files and offline maps are kept.
 
 ## Reporting a problem
 
